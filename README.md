@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Ref: https://codeburst.io/redux-a-crud-example-abb834d763c9
+
+Create Project
+### `npx create-react-app react-crud`
+
+Redux
+### `npm install --save redux react-redux`
+
 ## Available Scripts
 
 In the project directory, you can run:
